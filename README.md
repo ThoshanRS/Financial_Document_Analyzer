@@ -327,7 +327,7 @@ Check analysis progress.
 ## 👨‍💻 Author
 
 **Thoshan Naik R S**  
-SAP Certified Developer | Data Analyst | AI Application Builder  
+SAP Certified Developer | Data Scientist | AI Application Builder  
 
 ---
 
